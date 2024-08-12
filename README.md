@@ -817,9 +817,9 @@ Die Entscheidung, Kernkraftwerke in Deutschland abzuschalten, hat zu erheblichen
  
 24.	Warten, bis Psychopathen eine gemeinnützige App entwickeln, oder selbst Maßnahmen ergreifen?
 Eine eigentümerlose, nicht Profit gerichtete Gruppe, frei von Hierarchien und soziopathischen Verhalten, kann Entwicklungsstrategien für eine eigentümerlose Abstimmungs-App entwickeln.
--	Sie können eine E-Mail senden, wenn Sie auch der Meinung sind, dass: 
+
 Bill Gates, Google oder irgendeine Regierung werden und sollten diese Plattform nicht schaffen; es liegt an den Menschen.
-Bei 150 Freiwilligen werden Teilnahmeanweisungen per E-Mail verschickt. Ihr Beitrag zur Auswahl der ersten Gruppenplattform (z. B. WhatsApp, Telegram) wird geschätzt.
+
  
 -	Eine Gruppe gründen, in der gemeinsam überlegt wird, wie man eine solche Plattform gründen kann?
 
