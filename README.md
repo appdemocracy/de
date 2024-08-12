@@ -1,5 +1,5 @@
 ## [English](http://appdemocracy.github.io/) [Farsi](http://appdemocracy.github.io/fa/) [Deutsch](http://appdemocracy.github.io/en/) 
-## [references](http://appdemocracy.github.io/Reference/)
+## [references](https://appdemocracy.github.io/reference/)
 
 Bitte denken Sie über die folgenden Fragen nach und beachten Sie den grauen Text als zusätzliche Informationen.
 1.	Bessere Smartphones, Krebsheilung und Hungerbekämpfung in Afrika, wenn die Sklaverei fortbestünde?
