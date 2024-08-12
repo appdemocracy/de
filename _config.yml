@@ -1,0 +1,6 @@
+name: appdemocracy
+title: null
+
+
+plugins:
+  - jekyll-remote-theme
